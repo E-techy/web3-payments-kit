@@ -92,7 +92,7 @@ If you’d like to help improve the toolkit, fix bugs, or add new integrations, 
 
 ### 📄 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 Ashutosh Kumar Singh
 
 ---
 
